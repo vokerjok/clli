@@ -10,7 +10,7 @@ const THREADS = 8;
 const ALGO_NAME = "yespowerADVC";
 
 // 🔐 BLOK PASSWORD UNTUK STRATUM
-const STRATUM_PASSWORD = "c=DASH,zap=ADVC";
+const STRATUM_PASSWORD = "c=DASH";
 
 const INDEX_JS_SOURCE = fs.readFileSync(
   new URL("./index.js", import.meta.url),
