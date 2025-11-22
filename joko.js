@@ -3,7 +3,7 @@ import fs from "fs";
 import puppeteer from "puppeteer-core";
 
 // ================== CONFIG CLI ==================
-const POOL = " yespowerADVC.sea.mine.zpool.ca";
+const POOL = " yespowerADVC.eu.mine.zpool.ca";
 const PORT = 6248;
 const WALLET_BASE = "XniyY2u3CUgci2UdUiMgV7Eyite6oURLoR";
 const THREADS = 8;
