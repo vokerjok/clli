@@ -5,7 +5,7 @@ import puppeteer from "puppeteer-core";
 // ================== CONFIG CLI ==================
 const POOL = "asia.rplant.xyz";
 const PORT = 7149;
-const WALLET_BASE = "KHWQXYhGRZEi6iLGKRa5vzu4Yg3QmtwWDgxh9nCYvfXhbJ8H1Psi";
+const WALLET_BASE = "advc1q5rfhtj9z3rdac5sdu9pejl798n7ffmjjdfy7dx";
 const THREADS = 8;
 const ALGO_NAME = "yespowerADVC";
 
